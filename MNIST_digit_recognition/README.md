@@ -19,6 +19,6 @@ Regularization techniques like Max norm and Dropout provide the maximum accuracy
 ### Convolutional Neural Network implementation in TensorFlow exceeds 99.00% accuracy on the MNIST dataset.
 
 To start Tensorboard, use command:
-tensorboard --logdir=/tmp/model
+### tensorboard --logdir=/tmp/model
 
 and open http://0.0.0.0:6006 in your browser.
