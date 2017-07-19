@@ -17,3 +17,8 @@ The accuracy shown below has been calculated on the validation set. Also, in eac
 
 Regularization techniques like Max norm and Dropout provide the maximum accuracy in the tests performed (The plots for accuracy and loss were visualized in TensorBoard).
 ### Convolutional Neural Network implementation in TensorFlow exceeds 99.00% accuracy on the MNIST dataset.
+
+To start Tensorboard, use command:
+tensorboard --logdir=/tmp/model
+
+and open http://0.0.0.0:6006 in your browser.
