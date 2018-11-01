@@ -18,7 +18,6 @@ https://en.wikipedia.org/wiki/Big_Five_personality_traits
 #### [3] J.-I. Biel and D. Gatica-Perez. The YouTube lens: Crowdsourced personality impressions and audiovisual analysis of vlogs. Multimedia, IEEE Transactions on, 15(1):41– 55, 2013. 
 http://chalearnlap.cvc.uab.es/dataset/20/description/#
 
-
 <hr />
 
 <pre>
