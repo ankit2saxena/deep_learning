@@ -8,11 +8,11 @@ During interviews, the mindset or perception of the interviewer can affect the s
 The model generated here is trained and evaluated on YouTube videos provided by ChaLearn LAP APA2016 dataset [3]. 
 It achieves excellent performance and is able to outperform the top teams from the competition on two categories: Openness, and Conscientiousness.
 
-[1] Prediction of Personality First Impressions with Deep Bimodal
+#### [1] Prediction of Personality First Impressions with Deep Bimodal
 LSTM by Karen Yang, Stanford and Noa Glaser, Stanford, 2017
-[2] Big Five personality traits. In Wikipedia. Retrieved April 27, 2018,
+#### [2] Big Five personality traits. In Wikipedia. Retrieved April 27, 2018,
 from https://en.wikipedia.org/wiki/Big_Five_personality_traits
-[3] J.-I. Biel and D. Gatica-Perez. The YouTube lens: Crowdsourced
+#### [3] J.-I. Biel and D. Gatica-Perez. The YouTube lens: Crowdsourced
 personality impressions and audiovisual analysis of vlogs. Multimedia,
 IEEE Transactions on, 15(1):41– 55, 2013.
 http://chalearnlap.cvc.uab.es/dataset/20/description/#
