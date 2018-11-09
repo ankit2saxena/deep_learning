@@ -6,4 +6,4 @@
 3. NotMNIST dataset: image recognition. <br />
 
 ### keras(IPython Notebooks)
-1. Personality Trait evaluation
+1. Personality Traits evaluation: Prediction of personality traits based on facial features extracted from videos using Deep Learning
