@@ -1,4 +1,4 @@
-## deep learning examples
+## Deep Learning
 
 ### tensorflow
 1. Logistic Regression applied on makemoons dataset in Python. <br />
